@@ -1,7 +1,36 @@
-### Hi there 👋
+<h1>Hi, I'm Ashraf and I'm a Cyber Security professional working to learn more. </h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>SIEM and Honeynet</b>
+  - [Step 1]
+  - [Step 2]
+  - [Step 3]
+  - [Step 4]
+  - [Step 5]
+  - [Step 6]
+  - [Summary and Results]
+- <b> Vulnerability Management Lab)</b>
+  - [Step 1]
+  - [Step 2]
+  - [Step 3]
+  - [Step 4]
+  - [Step 5]
+
+
+<h2> 🤳 Connect with me:</h2>
 
 <!--
-**Ashrafs-Tech/Ashrafs-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+-->
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
