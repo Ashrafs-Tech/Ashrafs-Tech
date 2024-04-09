@@ -7,7 +7,7 @@
     
   - [Step 2: Firewall and SQL Server](https://github.com/Ashrafs-Tech/Installing-SQL/blob/main/README.md)
     
-  - [Step 3]
+  - [Step 3: Creating the Central Repository and the SIEM](https://github.com/Ashrafs-Tech/Create-L.A.W/blob/main/README.md)
     
   - [Step 4]
     
