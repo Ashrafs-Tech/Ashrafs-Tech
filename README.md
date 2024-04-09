@@ -4,11 +4,17 @@
 
 - <b>SIEM and Honeynet</b>
   - [Step 1: Creating the Environment](https://github.com/Ashrafs-Tech/Creating-the-Honeynet/blob/main/README.md)
+    
   - [Step 2: Firewall and SQL Server](https://github.com/Ashrafs-Tech/Installing-SQL/blob/main/README.md)
+    
   - [Step 3]
+    
   - [Step 4]
+    
   - [Step 5]
+    
   - [Step 6]
+    
   - [Summary and Results]
 - <b> Vulnerability Management Lab)</b>
   - [Step 1]
