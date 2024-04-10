@@ -11,7 +11,7 @@
     
   - [Step 4: Microsoft Defender for Cloud](https://github.com/Ashrafs-Tech/Microsoft-Defender/blob/main/README.md)
     
-  - [Step 5]
+  - [Step 5: More Configuration](https://github.com/Ashrafs-Tech/Log-Analytics-Configuration/blob/main/README.md)
     
   - [Step 6]
     
