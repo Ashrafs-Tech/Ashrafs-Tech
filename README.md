@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashraf and I'm a Cyber Security professional working to learn more. </h1>
+<h1>Hi, I'm Ashraf and I'm a Cyber Security professional always stuyding to learn more. </h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
