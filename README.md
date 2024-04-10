@@ -15,7 +15,7 @@
     
   - [Step 6: Entra ID, Activity, and Resource Logs](https://github.com/Ashrafs-Tech/EntraID-Activity-and-Resource/blob/main/README.md)
     
-  - [SUMMARY and RESULTS]
+  - [SUMMARY and RESULTS](https://github.com/Ashrafs-Tech/Summary-and-Results/blob/main/README.md)
 - <b> Vulnerability Management Lab</b>
   - [Step 1]
     
