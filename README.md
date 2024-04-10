@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>SIEM and Honeynet</b>
+- <b>SIEM and Honeynet Project </b>
   - [Step 1: Creating the Environment](https://github.com/Ashrafs-Tech/Creating-the-Honeynet/blob/main/README.md)
     
   - [Step 2: Firewall and SQL Server](https://github.com/Ashrafs-Tech/Installing-SQL/blob/main/README.md)
@@ -15,12 +15,16 @@
     
   - [Step 6]
     
-  - [Summary and Results]
-- <b> Vulnerability Management Lab)</b>
+  - [SUMMARY and RESULTS]
+- <b> Vulnerability Management Lab</b>
   - [Step 1]
+    
   - [Step 2]
+    
   - [Step 3]
+    
   - [Step 4]
+    
   - [Step 5]
 
 
