@@ -13,7 +13,7 @@
     
   - [Step 5: More Configuration](https://github.com/Ashrafs-Tech/Log-Analytics-Configuration/blob/main/README.md)
     
-  - [Step 6]
+  - [Step 6: Entra ID, Activity, and Resource Logs](https://github.com/Ashrafs-Tech/EntraID-Activity-and-Resource/blob/main/README.md)
     
   - [SUMMARY and RESULTS]
 - <b> Vulnerability Management Lab</b>
