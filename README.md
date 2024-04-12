@@ -19,7 +19,7 @@
 - <b> Vulnerability Management Lab</b>
   - [Step 1: Preparing the Scanner and Virtual Machine](https://github.com/Ashrafs-Tech/Scanner-and-VM/blob/main/README.md)
     
-  - [Step 2: Creating the 2nd Virtual Machine]()
+  - [Step 2: Creating the 2nd Virtual Machine](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/blob/main/README.md)
     
   - [Step 3]
     
