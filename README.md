@@ -17,9 +17,9 @@
     
   - [SUMMARY and RESULTS](https://github.com/Ashrafs-Tech/Summary-and-Results/blob/main/README.md)
 - <b> Vulnerability Management Lab</b>
-  - [Step 1]
+  - [Step 1: Preparing the Scanner and Virtual Machine](https://github.com/Ashrafs-Tech/Scanner-and-VM/blob/main/README.md)
     
-  - [Step 2]
+  - [Step 2: Creating the 2nd Virtual Machine]()
     
   - [Step 3]
     
