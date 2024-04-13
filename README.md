@@ -26,6 +26,10 @@
   - [Step 4: Unauthenticated Scan](https://github.com/Ashrafs-Tech/Configure-OpenVAS/blob/main/README.md)
     
   - [Step 5]
+ 
+  - [Step 6]
+ 
+  - [Step 7]
 
 
 <h2> 🤳 Connect with me:</h2>
