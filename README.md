@@ -21,7 +21,7 @@
     
   - [Step 2: Creating the 2nd Virtual Machine](https://github.com/Ashrafs-Tech/Virtual-Machine-for-Vulnerabilites/blob/main/README.md)
     
-  - [Step 3]
+  - [Step 3: Making the Virtual Machine insecure](https://github.com/Ashrafs-Tech/Making-VM-Vulnerable/blob/main/README.md)
     
   - [Step 4]
     
