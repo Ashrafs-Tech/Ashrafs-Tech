@@ -23,7 +23,7 @@
     
   - [Step 3: Making the Virtual Machine insecure](https://github.com/Ashrafs-Tech/Making-VM-Vulnerable/blob/main/README.md)
     
-  - [Step 4]
+  - [Step 4: Unauthenticated Scan](https://github.com/Ashrafs-Tech/Configure-OpenVAS/blob/main/README.md)
     
   - [Step 5]
 
