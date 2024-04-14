@@ -27,7 +27,7 @@
     
   - [Step 5: Configuring for authenicated scans](https://github.com/Ashrafs-Tech/Authenticated-Scan)
  
-  - [Step 6]
+  - [Step 6: Configuring OpenVAS](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform)
  
   - [Step 7]
 
