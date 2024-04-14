@@ -27,7 +27,7 @@
     
   - [Step 5: Creating more insecurity for Windows virtual machine](https://github.com/Ashrafs-Tech/Authenticated-Scan)
  
-  - [Step 6: Configuring OpenVAS](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform)
+  - [Step 6: Configuring for Authenticated Scans](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform)
  
   - [Step 7: Authenticated Scans](https://github.com/Ashrafs-Tech/AuthenticatedScan/blob/main/README.md)
 
