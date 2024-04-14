@@ -25,7 +25,7 @@
     
   - [Step 4: Unauthenticated Scan](https://github.com/Ashrafs-Tech/Configure-OpenVAS/blob/main/README.md)
     
-  - [Step 5: Configuring for authenicated scans](https://github.com/Ashrafs-Tech/Authenticated-Scan)
+  - [Step 5: Creating more insecurity for Windows virtual machine](https://github.com/Ashrafs-Tech/Authenticated-Scan)
  
   - [Step 6: Configuring OpenVAS](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform)
  
