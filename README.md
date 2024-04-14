@@ -29,7 +29,7 @@
  
   - [Step 6: Configuring OpenVAS](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform)
  
-  - [Step 7]
+  - [Step 7: Authenticated Scans](https://github.com/Ashrafs-Tech/AuthenticatedScan/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
