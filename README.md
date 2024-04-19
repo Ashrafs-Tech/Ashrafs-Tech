@@ -32,16 +32,18 @@
   - [Final Step: Authenticated Scans](https://github.com/Ashrafs-Tech/AuthenticatedScan/blob/main/README.md)
 
 
+<h2> Little more about me</h2>
+
+- 🔭 I’m currently working on more projects
+- 🌱 I’m currently learning the Network+.
+- ⚡ Fun fact: I like learning about history and gaming.
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
 [linkedin]: https://linkedin.com/in/Ashraf-F-Sheikh
 
-<h2> Little more about me</h2>
-
-- 🔭 I’m currently working on more projects
-- 🌱 I’m currently learning the Network+.
-- ⚡ Fun fact: I like learning about history and gaming.
 
   
