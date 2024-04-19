@@ -34,21 +34,17 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<!--
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
 [linkedin]: https://linkedin.com/in/Ashraf-F-Sheikh
 
--->
-
-<!--
 
 
-- 🔭 I’m currently working on more projects.
+- 🔭 I’m currently working on more projects
 - 🌱 I’m currently learning the Network+.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I like learning about history
--->
+- ⚡ Fun fact: I like learning about history and gaming.
+
+  
