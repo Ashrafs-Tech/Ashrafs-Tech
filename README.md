@@ -34,9 +34,9 @@
 
 <h2> Little more about me</h2>
 
-- 🔭 I’m currently working on more projects
+- 🔭 I’m currently working on more projects.
 - 🌱 I’m currently learning the Network+.
-- ⚡ Fun fact: I like learning about history and gaming.
+- ⚡ Fun fact: I like learning about history and cooking.
 
 
 <h2> 🤳 Connect with me on LinkedIn</h2>
