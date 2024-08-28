@@ -17,7 +17,7 @@
     
   - [SUMMARY and RESULTS](https://github.com/Ashrafs-Tech/Summary-and-Results/blob/main/README.md)
  
-  <!--
+
 - <b> Vulnerability Management Lab</b>
   - [Step 1: Preparing the Scanner and Virtual Machine](https://github.com/Ashrafs-Tech/Scanner-and-VM/blob/main/README.md)
     
@@ -33,7 +33,7 @@
  
   - [Final Step: Authenticated Scans and Remediations](https://github.com/Ashrafs-Tech/AuthenticatedScan/blob/main/README.md)
 
--->
+
 <h2> Little more about me</h2>
 
 - 🔭 I’m currently working on more projects.
