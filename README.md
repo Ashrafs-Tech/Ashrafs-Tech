@@ -31,7 +31,7 @@
  
   - [Step 6: Configuring for Authenticated Scans](https://github.com/Ashrafs-Tech/Configuration-of-OpenVAS-platform)
  
-  - [Final Step: Authenticated Scans and Remediations](https://github.com/Ashrafs-Tech/AuthenticatedScan/blob/main/README.md 
+  - [Final Step: Authenticated Scans and Remediations](https://github.com/Ashrafs-Tech/AuthenticatedScan/blob/main/README.md)
 
 
 <h2> Little more about me</h2>
