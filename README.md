@@ -36,8 +36,7 @@
 
 <h2> Little more about me</h2>
 
-- 🔭 I’m currently working on more projects.
-- 🌱 I’m currently learning the CCNA certification and Python.
+- 🔭 I’m currently working on more certifications.
 - ⚡ Fun fact: I like learning about history and cooking.
 
 <!--
