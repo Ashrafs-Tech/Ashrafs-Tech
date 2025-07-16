@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ashraf! I am working to expand my knowledge in the tech industry.</h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>SIEM and Honeynet Project </b>
   - [Step 1: Creating the Environment](https://github.com/Ashrafs-Tech/Creating-the-Honeynet/blob/main/README.md)
